@@ -43,7 +43,7 @@ import { Helmet } from "react-helmet-async";
 // Import all images from assets
 import heroBg from "../../assets/car1.jpg";
 import ctaBg from "../../assets/car1.jpg";
-import aboutImage from "../../assets/car9.JPG";
+import aboutImage from "../../assets/car9.jpg";
 import testimonial from "../../assets/testimonials.jpg";
 import van from "../../assets/van.avif";
 import vanss from "../../assets/vanss.png";
